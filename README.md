@@ -35,6 +35,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://javiferfer.medium.com/" target="blank"><img align="center" src="https://www.liblogo.com/lib/medium-logo.html" alt="javiferfer" height="30" width="40" /></a>
+<a href="https://javiferfer.medium.com/" target="blank"><img align="center" src="https://github.com/Medium/medium-logos/blob/master/01_Logo/01_Black/SVG/Medium-Logo-Black-RGB.svg" alt="javiferfer" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/javier-fernández-fernández-b91684b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javier-fernandez" height="30" width="40" /></a>
 </p>
