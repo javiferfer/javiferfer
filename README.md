@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Javi Fernández</h1>
+<h1 align="center">Hi 👋, I'm Javier Fernández</h1>
 <h3 align="center">A Data Scientist interested in anything that can bring value to the society.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javiferfer&label=Profile%20views&color=0e75b6&style=flat" alt="javiferfer" /> </p>
