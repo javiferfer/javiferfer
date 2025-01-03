@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Javier Fernández</h1>
-<h3 align="center">A Data Scientist interested in anything that can bring value to the society.</h3>
+<h3 align="center">A Team Lead Data Scientist interested in anything that can bring value to the society.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javiferfer&label=Profile%20views&color=0e75b6&style=flat" alt="javiferfer" /> </p>
 
-- 🔭 I’m currently working as a Data Scientist in Spain and as an AI researcher in Japan
+- 🔭 I’m currently working as a Team Lead Data Scientist in Spain and as an AI research scientist for a Japanese research institute
 - 🌱 I’m currently learning how to deploy a model in production
 - 👯 I’m looking to collaborate on any new AI-related challenge
 - 📫 How to reach me: javier.f3rnand3z@gmail.com
